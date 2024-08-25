@@ -9,7 +9,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliusmgani&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliusmgani&layout=compact&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliusmgani&show_icons=true&bg_color=FFFFFF&title_color=fcbf49&icon_color=fcbf49&text_color=000000&border_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliusmgani&show_icons=true&bg_color=FFFFFF&title_color=faa307&icon_color=faa307&text_color=000000&border_color=000000)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliusmgani&layout=compact&bg_color=FFFFFF&title_color=ffbe0b&text_color=000000&border_color=000000)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eliusmgani&theme=default&background=FFFFFF&stroke=000000&ring=FF6B6B&fire=FF6B6B&currStreakNum=FF6B6B&sideNums=FF6B6B&currStreakLabel=FF6B6B&sideLabels=000000&dates=000000)
 
